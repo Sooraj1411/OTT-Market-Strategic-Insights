@@ -171,11 +171,3 @@ creating a dominant OTT ecosystem with both reach and profitability.
 </p>
 
 <hr>
-
-<h2>🛠 Tools Used</h2>
-
-<ul>
-  <li>SQL – Data Extraction & KPI Analysis</li>
-  <li>Power BI – Dashboard Development</li>
-  <li>Excel – Data Cleaning & Preparation</li>
-</ul>
