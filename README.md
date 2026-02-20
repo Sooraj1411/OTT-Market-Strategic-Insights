@@ -49,7 +49,7 @@ with premium monetization strength (Jotstar) would create a dominant OTT platfor
 <h2>🗂 Repository Contents</h2>
 
 <ul>
-  <li>📁 [Dataset](https://github.com/Sooraj1411/OTT-Market-Strategic-Insights/tree/main/Dataset) (SQL & CSV)</li>
+  <li>📁 <a href="https://github.com/Sooraj1411/OTT-Market-Strategic-Insights/tree/main/Dataset">Dataset</a> (SQL & CSV)</li>
   <li>📁 Ad-hoc SQL Analysis</li>
   <li>📊 Power BI Dashboard</li>
   <li>📄 Complete Strategic Report</li>
