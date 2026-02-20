@@ -19,7 +19,7 @@ of performance and user behavior (Jan–Nov 2024) across both platforms.
 <h2>🧑‍💼 My Role</h2>
 
 <p>
-Imagined myself as <b>Peter Pandey – Data Analyst at Lio</b>, responsible for:
+As a Data Analyst at Lio</b>, responsible for:
 </p>
 
 <ul>
@@ -59,52 +59,212 @@ Initially mapped table relationships manually before implementing the BI model.
 
 <hr>
 
-<h2>📊 Key Areas of Analysis</h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>OTT Merger Strategic Insights</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f6f9;
+            color: #333;
+        }
+        header {
+            background-color: #111827;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #1f2937;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        section {
+            padding: 40px;
+            border-bottom: 1px solid #ddd;
+        }
+        h2 {
+            color: #111827;
+        }
+        .card {
+            background: white;
+            padding: 20px;
+            margin: 15px 0;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+        .highlight {
+            background-color: #e0f2fe;
+            padding: 15px;
+            border-left: 5px solid #0284c7;
+            margin-top: 20px;
+            border-radius: 6px;
+        }
+        footer {
+            background-color: #111827;
+            color: white;
+            text-align: center;
+            padding: 15px;
+        }
+    </style>
+</head>
+<body>
 
-<h3>1️⃣ Content Library Analysis</h3>
-<ul>
-  <li>Content type comparison (Movies, Series, Live)</li>
-  <li>Genre distribution analysis</li>
-  <li>Regional content strength</li>
-</ul>
+<header>
+    <h1>Insights for a Strategic Merger in the OTT Domain</h1>
+    <h3>LioCinema vs Jotstar (Disney+ Hotstar)</h3>
+</header>
 
-<h3>2️⃣ Subscriber Insights</h3>
-<ul>
-  <li>Monthly subscriber growth (Jan–Nov 2024)</li>
-  <li>Age group distribution</li>
-  <li>City tier performance</li>
-  <li>New vs Repeat subscribers</li>
-</ul>
+<nav>
+    <a href="#home">Home</a>
+    <a href="#context">Context & Objective</a>
+    <a href="#executive">Executive View</a>
+    <a href="#content">Content View</a>
+    <a href="#subscriber">Subscriber View</a>
+    <a href="#transition">Plan Transition View</a>
+</nav>
 
-<h3>3️⃣ Inactivity Analysis</h3>
-<ul>
-  <li>Inactive users by age group</li>
-  <li>Inactivity by city tier</li>
-  <li>Plan-wise inactivity patterns</li>
-</ul>
+<section id="home">
+    <h2>Home / Landing Page</h2>
+    <p>This dashboard serves as the navigation hub for analyzing a potential merger between LioCinema and Jotstar.</p>
+    <ul>
+        <li>Executive View</li>
+        <li>Content View</li>
+        <li>Subscriber View</li>
+        <li>Plan Transition View</li>
+    </ul>
+</section>
 
-<h3>4️⃣ Upgrade Patterns</h3>
-<ul>
-  <li>Percentage of users upgrading plans</li>
-  <li>Demographic factors influencing upgrades</li>
-  <li>Revenue impact analysis</li>
-</ul>
+<section id="context">
+    <h2>Context & Objective</h2>
 
-<h3>5️⃣ Downgrade Patterns</h3>
-<ul>
-  <li>Subscription downgrade trends</li>
-  <li>Correlation with inactivity</li>
-  <li>Demographic influence</li>
-</ul>
+    <div class="card">
+        <h3>Context</h3>
+        <p>Lio is evaluating a merger with Jotstar to combine subscriber scale with premium content and strengthen its OTT market position.</p>
+    </div>
 
-<h3>6️⃣ Content Consumption Behavior</h3>
-<ul>
-  <li>Total watch time comparison</li>
-  <li>Device preference analysis</li>
-  <li>Watch time by age group</li>
-  <li>Content-type engagement trends</li>
-</ul>
+    <div class="card">
+        <h3>Objective</h3>
+        <p>Analyze platform performance and user behavior from Jan–Nov 2024 to support strategic merger decisions.</p>
+    </div>
 
+    <div class="card">
+        <h3>Dashboard Coverage</h3>
+        <ul>
+            <li>Platform performance & revenue comparison</li>
+            <li>Subscriber growth, churn & plan transitions</li>
+            <li>Content library and engagement patterns</li>
+        </ul>
+    </div>
+</section>
+
+<section id="executive">
+    <h2>Executive View</h2>
+
+    <div class="card">
+        <h3>LioCinema</h3>
+        <p><strong>Total Users:</strong> 16.2K | <strong>Contents:</strong> 1,250 | <strong>Revenue:</strong> 2.3M | <strong>Watch Time:</strong> 1.10M</p>
+        <p><strong>Largest Age Group:</strong> 18–24 (7.3K)</p>
+        <p><strong>Plan Distribution:</strong> Free dominant (9.4K)</p>
+    </div>
+
+    <div class="card">
+        <h3>Jotstar</h3>
+        <p><strong>Total Users:</strong> 4.1K | <strong>Contents:</strong> 2,360 | <strong>Revenue:</strong> 4.4M | <strong>Watch Time:</strong> 1.15M</p>
+        <p><strong>Largest Age Group:</strong> 25–34 (1,812)</p>
+        <p><strong>Plan Distribution:</strong> Paid dominant (VIP & Premium)</p>
+    </div>
+
+    <div class="highlight">
+        <strong>Key Insight:</strong> LioCinema has scale but low monetization. Jotstar has fewer users but nearly double revenue per user with stronger paid adoption.
+    </div>
+</section>
+
+<section id="content">
+    <h2>Content View</h2>
+
+    <div class="card">
+        <h3>LioCinema</h3>
+        <p><strong>Contents:</strong> 1,250 | <strong>Revenue:</strong> 23.6M | <strong>Avg Watch Time:</strong> 25.61</p>
+        <p><strong>Top Languages:</strong> Hindi, Telugu, Tamil</p>
+    </div>
+
+    <div class="card">
+        <h3>Jotstar</h3>
+        <p><strong>Contents:</strong> 2,360 | <strong>Revenue:</strong> 55.2M | <strong>Avg Watch Time:</strong> 117.24</p>
+        <p><strong>Top Languages:</strong> English, Hindi, Tamil</p>
+    </div>
+
+    <div class="highlight">
+        <strong>Key Insight:</strong> Jotstar’s average watch time is nearly 5x higher, indicating significantly deeper user engagement and premium content pull.
+    </div>
+</section>
+
+<section id="subscriber">
+    <h2>Subscriber View</h2>
+
+    <div class="card">
+        <h3>LioCinema</h3>
+        <p><strong>Total Users:</strong> 183.4K | <strong>Paid Users:</strong> 63.5K | <strong>Revenue:</strong> 23.6M</p>
+        <p><strong>Free Tier Dependency:</strong> 65%</p>
+    </div>
+
+    <div class="card">
+        <h3>Jotstar</h3>
+        <p><strong>Total Users:</strong> 44.6K | <strong>Paid Users:</strong> 32K | <strong>Revenue:</strong> 55.2M</p>
+        <p><strong>Paid Subscriber Base:</strong> ~71%</p>
+    </div>
+
+    <div class="highlight">
+        <strong>Key Insight:</strong> Jotstar generates more than double revenue despite a fraction of users due to strong paid subscriber base.
+    </div>
+</section>
+
+<section id="transition">
+    <h2>Plan Transition View</h2>
+
+    <div class="card">
+        <h3>LioCinema</h3>
+        <p><strong>Upgrade Rate:</strong> 4.40% | <strong>Downgrade Rate:</strong> 32.85%</p>
+        <p>Upgrade trend declining month-over-month.</p>
+    </div>
+
+    <div class="card">
+        <h3>Jotstar</h3>
+        <p><strong>Upgrade Rate:</strong> 13.73% | <strong>Downgrade Rate:</strong> 8.66%</p>
+        <p>Healthier transition behavior and stronger paid retention.</p>
+    </div>
+
+    <div class="highlight">
+        <strong>Key Insight:</strong> LioCinema struggles with downgrades, while Jotstar maintains strong retention and upgrade momentum.
+    </div>
+</section>
+
+<section>
+    <h2>Overall Merger Takeaway</h2>
+    <div class="highlight">
+        LioCinema brings scale and Tier 3 penetration.  
+        Jotstar brings monetization strength, premium content, and deeper engagement.  
+        Together, they create a powerful strategic fit for OTT market dominance.
+    </div>
+</section>
+
+<footer>
+    © 2024 OTT Strategic Merger Analysis Dashboard
+</footer>
+
+</body>
+</html>
 <hr>
 
 <h2>🗂 Data Modelling</h2>
