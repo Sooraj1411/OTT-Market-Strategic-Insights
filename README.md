@@ -1,181 +1,180 @@
-<h1 align="center">📊 OTT Market Strategic Insights</h1>
-<h2 align="center">LioCinema vs Jotstar – Strategic Merger Analysis (Jan–Nov 2024)</h2>
+<h1 align="center">🎬📊 LioCinema vs Jotstar – Strategic Merger Analysis</h1>
 
-<hr>
-
-<h2>📌 Project Overview</h2>
+<h2>📌 Introduction</h2>
 
 <p>
-This project evaluates a potential strategic merger between <b>LioCinema</b> and 
-<b>Jotstar (Disney+ Hotstar)</b> in the OTT domain.
+Lio, a leading telecom provider in India, is planning a strategic merger with Jotstar, 
+one of the country’s prominent streaming platforms. The goal is to combine 
+<b>LioCinema’s expansive subscriber base</b> with <b>Jotstar’s diverse content library</b> 
+to establish the leading OTT platform in India.
 </p>
 
-<p>The objective is to analyze:</p>
-
-<ul>
-  <li>Platform performance</li>
-  <li>Revenue strength & ARPU comparison</li>
-  <li>Subscriber behavior & retention</li>
-  <li>Content engagement patterns</li>
-  <li>Plan transitions (Upgrade / Downgrade)</li>
-</ul>
-
-<hr>
-
-<h2>🏠 Dashboard Sections</h2>
-
-<ul>
-  <li><b>Executive View</b> – High-level business summary</li>
-  <li><b>Content View</b> – Content library & engagement insights</li>
-  <li><b>Subscriber View</b> – Growth, retention & monetization</li>
-  <li><b>Plan Transition View</b> – Upgrade & downgrade behavior</li>
-</ul>
-
-<hr>
-
-<h2>📊 Executive View</h2>
-
-<h3>🎬 LioCinema</h3>
-<ul>
-  <li><b>Total Users:</b> 16.2K</li>
-  <li><b>Content Library:</b> 1,250</li>
-  <li><b>Revenue:</b> 2.3M</li>
-  <li><b>Watch Time:</b> 1.10M</li>
-  <li><b>Largest Age Group:</b> 18–24 (7.3K)</li>
-  <li><b>Plan Split:</b> Free-heavy (9.4K Free users)</li>
-</ul>
-
-<h3>🎥 Jotstar</h3>
-<ul>
-  <li><b>Total Users:</b> 4.1K</li>
-  <li><b>Content Library:</b> 2,360</li>
-  <li><b>Revenue:</b> 4.4M</li>
-  <li><b>Watch Time:</b> 1.15M</li>
-  <li><b>Largest Age Group:</b> 25–34 (1,812)</li>
-  <li><b>Plan Split:</b> Paid-dominant (VIP & Premium)</li>
-</ul>
-
 <p>
-<b>🔎 Key Insight:</b> LioCinema has scale but weak monetization. 
-Jotstar generates nearly <b>2x revenue with fewer users</b>, indicating stronger ARPU and premium positioning.
+As part of the merger preparation, management requested a detailed analysis 
+of performance and user behavior (Jan–Nov 2024) across both platforms.
 </p>
 
 <hr>
 
-<h2>🎬 Content View</h2>
+<h2>🧑‍💼 My Role</h2>
 
-<h3>LioCinema</h3>
+<p>
+Imagined myself as <b>Peter Pandey – Data Analyst at Lio</b>, responsible for:
+</p>
+
 <ul>
-  <li><b>Contents:</b> 1,250</li>
-  <li><b>Revenue:</b> 23.6M</li>
-  <li><b>Avg Watch Time:</b> 25.61</li>
-  <li><b>Top Languages:</b> Hindi, Telugu, Tamil</li>
+  <li>Analyzing platform performance</li>
+  <li>Studying user behavior trends</li>
+  <li>Evaluating upgrades, downgrades & inactivity patterns</li>
+  <li>Delivering strategic, data-driven recommendations</li>
 </ul>
 
-<h3>Jotstar</h3>
+<hr>
+
+<h2>🎯 Objective of the Analysis</h2>
+
 <ul>
-  <li><b>Contents:</b> 2,360</li>
-  <li><b>Revenue:</b> 55.2M</li>
-  <li><b>Avg Watch Time:</b> 117.24</li>
-  <li><b>Top Languages:</b> English, Hindi, Tamil</li>
+  <li>📚 Content Library Comparison</li>
+  <li>👥 Subscriber Growth & Demographics</li>
+  <li>💤 Inactivity Behavior Analysis</li>
+  <li>⬆️ Subscription Upgrade Trends</li>
+  <li>⬇️ Subscription Downgrade Trends</li>
+  <li>🎬 Content Consumption Behavior</li>
+</ul>
+
+<hr>
+
+<h2>⚙️ Tools Used</h2>
+
+<ul>
+  <li><b>MySQL</b> – Data exploration, joins, aggregations, window functions</li>
+  <li><b>Power BI</b> – Dashboard creation & advanced DAX measures</li>
+  <li><b>MS Excel</b> – Data validation & cross-checking</li>
+  <li><b>MS PowerPoint</b> – Executive-level presentation</li>
 </ul>
 
 <p>
-<b>🔎 Key Insight:</b> Jotstar’s average watch time is nearly <b>5x higher</b>, 
-showing significantly deeper user engagement and premium content pull.
+Initially mapped table relationships manually before implementing the BI model.
 </p>
 
 <hr>
 
-<h2>👥 Subscriber View</h2>
+<h2>📊 Key Areas of Analysis</h2>
 
-<h3>LioCinema</h3>
+<h3>1️⃣ Content Library Analysis</h3>
 <ul>
-  <li><b>Total Users:</b> 183.4K</li>
-  <li><b>Active Users:</b> 101K</li>
-  <li><b>Paid Users:</b> 63.5K</li>
-  <li><b>Revenue:</b> 23.6M</li>
-  <li><b>Free Plan Share:</b> 65%</li>
-  <li><b>Strong Tier 3 Penetration</b></li>
+  <li>Content type comparison (Movies, Series, Live)</li>
+  <li>Genre distribution analysis</li>
+  <li>Regional content strength</li>
 </ul>
 
-<h3>Jotstar</h3>
+<h3>2️⃣ Subscriber Insights</h3>
 <ul>
-  <li><b>Total Users:</b> 44.6K</li>
-  <li><b>Active Users:</b> 38K</li>
-  <li><b>Paid Users:</b> 32K</li>
-  <li><b>Revenue:</b> 55.2M</li>
-  <li><b>Paid Subscriber Share:</b> ~71%</li>
-  <li><b>Strong Tier 1 Premium Adoption</b></li>
+  <li>Monthly subscriber growth (Jan–Nov 2024)</li>
+  <li>Age group distribution</li>
+  <li>City tier performance</li>
+  <li>New vs Repeat subscribers</li>
+</ul>
+
+<h3>3️⃣ Inactivity Analysis</h3>
+<ul>
+  <li>Inactive users by age group</li>
+  <li>Inactivity by city tier</li>
+  <li>Plan-wise inactivity patterns</li>
+</ul>
+
+<h3>4️⃣ Upgrade Patterns</h3>
+<ul>
+  <li>Percentage of users upgrading plans</li>
+  <li>Demographic factors influencing upgrades</li>
+  <li>Revenue impact analysis</li>
+</ul>
+
+<h3>5️⃣ Downgrade Patterns</h3>
+<ul>
+  <li>Subscription downgrade trends</li>
+  <li>Correlation with inactivity</li>
+  <li>Demographic influence</li>
+</ul>
+
+<h3>6️⃣ Content Consumption Behavior</h3>
+<ul>
+  <li>Total watch time comparison</li>
+  <li>Device preference analysis</li>
+  <li>Watch time by age group</li>
+  <li>Content-type engagement trends</li>
+</ul>
+
+<hr>
+
+<h2>🗂 Data Modelling</h2>
+
+<ul>
+  <li>Implemented <b>Star Schema</b> for optimized reporting</li>
+  <li>Built fact and dimension tables for scalable analytics</li>
+  <li>Created DAX measures for:
+    <ul>
+      <li>Retention %</li>
+      <li>Churn %</li>
+      <li>ARPU</li>
+      <li>Growth Rate</li>
+    </ul>
+  </li>
+</ul>
+
+<hr>
+
+<h2>📈 Dashboard Overview</h2>
+
+<ul>
+  <li>📊 Subscriber Growth Comparison</li>
+  <li>💰 Revenue & ARPU Analysis</li>
+  <li>📚 Content Library Comparison</li>
+  <li>💤 Inactivity Dashboard</li>
+  <li>⬆️ Upgrade vs ⬇️ Downgrade Insights</li>
+  <li>🎬 Content Consumption Trends</li>
+  <li>📱 Device Usage Analysis</li>
 </ul>
 
 <p>
-<b>🔎 Key Insight:</b> Despite fewer users, Jotstar generates 
-<b>more than double revenue</b> due to strong paid subscriber base.
+📄 <b>Dashboard PDF:</b> <a href="#">Add Link</a><br>
+🌐 <b>Live Dashboard:</b> <a href="#">Add Link</a><br>
+📘 <b>Complete Strategic Report:</b> <a href="#">Add Link</a>
 </p>
 
 <hr>
 
-<h2>🔄 Plan Transition View</h2>
+<h2>💡 Strategic Insights</h2>
 
-<h3>LioCinema</h3>
 <ul>
-  <li><b>Active Rate:</b> 55.13%</li>
-  <li><b>Paid Users:</b> 34.61%</li>
-  <li><b>Upgrade Rate:</b> 4.40%</li>
-  <li><b>Downgrade Rate:</b> 32.85%</li>
+  <li>Identified high-growth demographics for post-merger targeting</li>
+  <li>Highlighted churn-prone segments requiring retention strategies</li>
+  <li>Found correlation between premium content & upgrades</li>
+  <li>Observed city-tier-based consumption differences</li>
+  <li>Identified device-based engagement patterns</li>
 </ul>
-
-<h3>Jotstar</h3>
-<ul>
-  <li><b>Active Rate:</b> 85.09%</li>
-  <li><b>Paid Users:</b> 70.99%</li>
-  <li><b>Upgrade Rate:</b> 13.73%</li>
-  <li><b>Downgrade Rate:</b> 8.66%</li>
-</ul>
-
-<p>
-<b>🔎 Key Insight:</b> LioCinema struggles with downgrades and low upgrades, 
-while Jotstar maintains healthier retention and subscription stability.
-</p>
 
 <hr>
 
-<h2>🧠 Overall Merger Takeaway</h2>
+<h2>🚀 Recommendations</h2>
 
-<table border="1" cellpadding="8">
-<tr>
-<th>LioCinema Brings</th>
-<th>Jotstar Brings</th>
-</tr>
-<tr>
-<td>Large user scale</td>
-<td>High ARPU & monetization strength</td>
-</tr>
-<tr>
-<td>Tier 3 market penetration</td>
-<td>Premium content library</td>
-</tr>
-<tr>
-<td>Mobile-first reach</td>
-<td>Strong engagement & retention</td>
-</tr>
-</table>
-
-<br>
-
-<p>
-<b>🎯 Strategic Fit:</b>  
-A merger would combine LioCinema’s scale with Jotstar’s revenue engine, 
-creating a dominant OTT ecosystem with both reach and profitability.
-</p>
+<ul>
+  <li>Invest in high-performing genres</li>
+  <li>Bundle telecom + premium OTT plans</li>
+  <li>Focus on tier-2 & tier-3 cities with regional content</li>
+  <li>Improve personalization to reduce inactivity</li>
+  <li>Introduce loyalty incentives</li>
+</ul>
 
 <hr>
 
-<h2>🛠 Tools Used</h2>
+<h2>🤝 Let’s Connect</h2>
 
-<ul>
-  <li>SQL – Data Extraction & KPI Analysis</li>
-  <li>Power BI – Dashboard Development</li>
-  <li>Excel – Data Cleaning & Preparation</li>
-</ul>
+<p>
+📌 LinkedIn: <a href="https://www.linkedin.com/in/surajkumar-analyst/">Suraj Kumar</a><br>
+📧 Email: suraj783856@gmail.com
+</p>
+
+<p align="center">
+✨ Thank you for reading!
+</p>
